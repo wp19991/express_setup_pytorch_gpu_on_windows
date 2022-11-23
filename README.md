@@ -6,9 +6,7 @@
 
 如果你不需要python的新特性，或者你不知道python37，python38，python39，python310的区别，建议就按照教程进行每一步的安装。
 > PS：这里提供使用其他python版本的方法
-
 > 1.去`https://download.pytorch.org/whl`找到与下面名称相近的版本
-
 > 2.需要联网，并且跳过安装依赖安装依赖的步骤，因为依赖也是基于python37的
 
 ## 准备
